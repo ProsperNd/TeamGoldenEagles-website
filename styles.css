@@ -2,7 +2,6 @@ body {
     background-color: black;
     margin: 0;
     padding: 0;
-    color: white;
    }
    
    
@@ -36,7 +35,7 @@ body {
     color: #555;
    }
    nav a[aria-current='page'] {
-    color: white ;
+    color: ;
     background-color: #d4d4d4;
    }
    main {
@@ -79,7 +78,7 @@ body {
    }
    /* On hover, add a black background color with a little bit see-through */
    .prev:hover, .next:hover {
-    background-color: white;
+    background-color: rgba(0,0,0,0.8);
    }
    /* Caption text */
    .text {
@@ -174,7 +173,7 @@ body {
    
    .prev:hover,
    .next:hover {
-    background-color: white;
+    background-color: rgba(0, 0, 0, 0.8);
    }
    
    
